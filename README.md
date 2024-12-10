@@ -1,3 +1,5 @@
+KFB FORK, ADDS FOLIA SUPPORT BY TOGGLING FOLIA-ENABLER AND REWRITING SCHEDULED TASKS TO BE ASYNC
+
 # AntiSeedCracker
 
 A Spigot plugin making an effort to work against seed cracking mods.
